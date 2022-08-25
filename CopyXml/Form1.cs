@@ -131,7 +131,7 @@ namespace CopyXml
                     XmlNodeList xmlDoc = doc.GetElementsByTagName("emit");
                     for (int i = 0; i < xmlDoc.Count; i++)
                     {
-                        //percorre o nó emit do xml e encontra o nó abaixo
+                        //percorre o nó emit do xml e encontrar o nó abaixo
                         XmlNodeList xmlListItens = xmlDoc[i]["CNPJ"].ChildNodes;
                         string cnpjId = xmlDoc[i]["CNPJ"].ChildNodes[0].InnerText;
 
