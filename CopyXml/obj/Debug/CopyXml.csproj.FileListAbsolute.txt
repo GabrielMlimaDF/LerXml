@@ -1,0 +1,34 @@
+C:\Users\Colaborador\source\repos\CopyXml\CopyXml\bin\Debug\CopyXml.exe.config
+C:\Users\Colaborador\source\repos\CopyXml\CopyXml\bin\Debug\CopyXml.exe
+C:\Users\Colaborador\source\repos\CopyXml\CopyXml\bin\Debug\CopyXml.pdb
+C:\Users\Colaborador\source\repos\CopyXml\CopyXml\obj\Debug\CopyXml.csprojAssemblyReference.cache
+C:\Users\Colaborador\source\repos\CopyXml\CopyXml\obj\Debug\CopyXml.Form1.resources
+C:\Users\Colaborador\source\repos\CopyXml\CopyXml\obj\Debug\CopyXml.Properties.Resources.resources
+C:\Users\Colaborador\source\repos\CopyXml\CopyXml\obj\Debug\CopyXml.csproj.GenerateResource.cache
+C:\Users\Colaborador\source\repos\CopyXml\CopyXml\obj\Debug\CopyXml.csproj.CoreCompileInputs.cache
+C:\Users\Colaborador\source\repos\CopyXml\CopyXml\obj\Debug\CopyXml.exe
+C:\Users\Colaborador\source\repos\CopyXml\CopyXml\obj\Debug\CopyXml.pdb
+C:\Users\Colaborador\source\repos\CopyXml\CopyXml\obj\Debug\CopyXml.StatusBuscar.resources
+J:\Meu Drive\Outros projetos\Versão Final PXml\CopyXml\CopyXml\bin\Debug\CopyXml.exe.config
+J:\Meu Drive\Outros projetos\Versão Final PXml\CopyXml\CopyXml\bin\Debug\CopyXml.exe
+J:\Meu Drive\Outros projetos\Versão Final PXml\CopyXml\CopyXml\bin\Debug\CopyXml.pdb
+J:\Meu Drive\Outros projetos\Versão Final PXml\CopyXml\CopyXml\obj\Debug\CopyXml.csprojAssemblyReference.cache
+J:\Meu Drive\Outros projetos\Versão Final PXml\CopyXml\CopyXml\obj\Debug\CopyXml.Form1.resources
+J:\Meu Drive\Outros projetos\Versão Final PXml\CopyXml\CopyXml\obj\Debug\CopyXml.Properties.Resources.resources
+J:\Meu Drive\Outros projetos\Versão Final PXml\CopyXml\CopyXml\obj\Debug\CopyXml.StatusBuscar.resources
+J:\Meu Drive\Outros projetos\Versão Final PXml\CopyXml\CopyXml\obj\Debug\CopyXml.csproj.GenerateResource.cache
+J:\Meu Drive\Outros projetos\Versão Final PXml\CopyXml\CopyXml\obj\Debug\CopyXml.csproj.CoreCompileInputs.cache
+J:\Meu Drive\Outros projetos\Versão Final PXml\CopyXml\CopyXml\obj\Debug\CopyXml.exe
+J:\Meu Drive\Outros projetos\Versão Final PXml\CopyXml\CopyXml\obj\Debug\CopyXml.pdb
+J:\Meu Drive\Outros projetos\TesteXml\CopyXml\CopyXml\obj\Debug\CopyXml.csproj.AssemblyReference.cache
+J:\Meu Drive\Outros projetos\TesteXml\CopyXml\CopyXml\obj\Debug\CopyXml.csproj.SuggestedBindingRedirects.cache
+J:\Meu Drive\Outros projetos\TesteXml\CopyXml\CopyXml\obj\Debug\CopyXml.exe
+J:\Meu Drive\Outros projetos\TesteXml\CopyXml\CopyXml\obj\Debug\CopyXml.pdb
+J:\Meu Drive\Outros projetos\TesteXml\CopyXml\CopyXml\bin\Debug\CopyXml.exe.config
+J:\Meu Drive\Outros projetos\TesteXml\CopyXml\CopyXml\bin\Debug\CopyXml.exe
+J:\Meu Drive\Outros projetos\TesteXml\CopyXml\CopyXml\bin\Debug\CopyXml.pdb
+J:\Meu Drive\Outros projetos\TesteXml\CopyXml\CopyXml\obj\Debug\CopyXml.Form1.resources
+J:\Meu Drive\Outros projetos\TesteXml\CopyXml\CopyXml\obj\Debug\CopyXml.Properties.Resources.resources
+J:\Meu Drive\Outros projetos\TesteXml\CopyXml\CopyXml\obj\Debug\CopyXml.StatusBuscar.resources
+J:\Meu Drive\Outros projetos\TesteXml\CopyXml\CopyXml\obj\Debug\CopyXml.csproj.GenerateResource.cache
+J:\Meu Drive\Outros projetos\TesteXml\CopyXml\CopyXml\obj\Debug\CopyXml.csproj.CoreCompileInputs.cache
